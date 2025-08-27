@@ -1,0 +1,5 @@
+.venv/ 
+.ipynb_checkpoints/ 
+*.sqlite 
+Untitled*.ipynb 
+MySQL_Risk_Demo_old*.ipynb 
