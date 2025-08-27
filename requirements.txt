@@ -1,0 +1,6 @@
+pandas
+numpy
+SQLAlchemy>=2.0
+pymysql
+python-dotenv
+scipy
